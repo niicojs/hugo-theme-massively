@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Massively</title>
-    <link>https://curttimson.github.io/hugo-theme-massively/index.xml</link>
-    <description>Recent content on Massively</description>
+    <title>Posts on Massively</title>
+    <link>https://curttimson.github.io/hugo-theme-massively/post/index.xml</link>
+    <description>Recent content in Posts on Massively</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://curttimson.github.io/hugo-theme-massively/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://curttimson.github.io/hugo-theme-massively/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comments example</title>

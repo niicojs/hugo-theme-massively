@@ -2,7 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/comments-example/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post1/</loc>
+    <lastmod>2017-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post2/</loc>
+    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post5/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post4/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post3/</loc>
+    <lastmod>2017-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post6/</loc>
+    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post7/</loc>
+    <lastmod>2017-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post8/</loc>
+    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/post/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://curttimson.github.io/hugo-theme-massively/post/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
