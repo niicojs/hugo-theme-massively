@@ -4,7 +4,6 @@
 		{{ $posts := where .Data.Pages "Type" .Site.Params.Posts.foldername }}
 		{{ $firstPost := first 1 $posts }}
 
-
 		{{ if and (eq .Site.Params.Posts.featuredpost "true") (gt (len $posts) 1) }}
 			{{ .Scratch.Set "postsForPaging" (after 1 $posts) }}
 		{{ else }}
@@ -26,12 +25,12 @@
 
 				<!-- Main -->
 					<div id="main">
-
 						{{ if eq .Site.Params.Posts.featuredpost "true" }}
 						{{ partial "posts/featured.html" (dict "firstpost" $firstPost "siteData" (index .Site.Data .Site.Language.Lang)) }}
 						{{ end }}
+						{{ if or (ne .Site.Params.Posts.featuredpost "true") (gt (len $posts) 1) }}
 						{{ partial "posts/list.html" (dict "posts" $postsPaging "siteData" (index .Site.Data .Site.Language.Lang)) }}
-
+						{{ end }}
 						<!-- Footer -->
 						{{ if gt $postsPaging.TotalPages 1 }}
 						<footer>
